@@ -2,6 +2,7 @@
 
 
 ### Terraform apply
+##### with the help of modules
 ![output](https://github.com/mahimasharu2208/terraform-nginx-app/blob/main/outputs/1.png)
 ![output](https://github.com/mahimasharu2208/terraform-nginx-app/blob/main/outputs/2.png)
 ![output](https://github.com/mahimasharu2208/terraform-nginx-app/blob/main/outputs/3.png)
